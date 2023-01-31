@@ -1,7 +1,26 @@
-# GitHub Codespaces ♥️ Jupyter Notebooks
+#Data Science and Machine Learning Portfolio
 
-Welcome to your shiny new codespace! We've got everything fired up and running for you to explore Python and Jupyter notebooks.
+Repository containing portfolio of data science projects completed for academic, self learning, and hobby purposes. Presented in the form of Jupyter Notebooks.
 
-You've got a blank canvas to work on from a git perspective as well. There's a single initial commit with what you're seeing right now - where you go from here is up to you!
+Tools
+  - **Python**: NumPy, Pandas, Seaborn, Matplotlib
+  - **Machine Learning**: scikit-learn, TensorFlow, keras
 
-Everything you do here is contained within this one codespace. There is no repository on GitHub yet. If and when you’re ready you can click "Publish Branch" and we’ll create your repository and push up your project. If you were just exploring then and have no further need for this code then you can simply delete your codespace and it's gone forever.
+ ##Contents
+ -## Machine Learning 
+ -[K-Nearest Neighbors - Social Network Ads Dataset](): Using K-NN on customers that bought a SUV from a social network ad.
+ -[Machine Learning Regression - Financial Market](): Importing from quandl (financial and economical data) to create a simple regression.
+    
+
+- ## Data Analysis and Visualization (Python Programming)
+    - [Stock Market Analysis of Tech Stocks](): Analysis of technology stocks including change in price over time, daily returns, and stock behaviour prediction. 
+    - [Exploratory Data Analysis - House Prices](): Simple analysis of house prices including quick visualizations with correlation plots and heat maps.
+     - [Simple Linear Regression]()Small playground to summarize and study relationships between two continuous variables from a randomized dataset.
+
+     
+
+
+
+
+
+
